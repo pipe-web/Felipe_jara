@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735124693941",
+    "project_id": "my-application-2-20fd2",
+    "storage_bucket": "my-application-2-20fd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735124693941:android:8714bc3bd9d9ffafd3affc",
+        "android_client_info": {
+          "package_name": "cl.ichirosensei.myapplication2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrmDOQTh2geZRsENXxYSn9eiFF8qC3OzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
